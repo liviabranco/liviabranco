@@ -16,7 +16,7 @@ Aqui estão algumas coisas que venho aprendendo nessa jornada. </br>
 <p>
 📫 Para entrar em contato:</br>
 Email: liviadbranco@outlook.com</br>
-LinkedIn: https://www.linkedin.com/in/lívia-d-228205ab</br>
+LinkedIn: https://www.linkedin.com/in/liviadbranco</br>
 </p> 
 <p>
 ⚡ Fun fact:</br>
