@@ -1,7 +1,7 @@
 ## Olá, sou a Lívia. 👋
 <p> 
 🙋<h>Sobre mim</h></br>
-Profissional de ciência da computação, engajada e curiosa, com experiência em desenvolvimento e infraestrutura. Buscando desenvolver habilidades sólidas em cloud, desenvolvimento de software e disaster recovery. 
+Profissional na área de ciência da computação, engajada e curiosa, com experiência em desenvolvimento e infraestrutura. Buscando desenvolver habilidades sólidas em cloud, desenvolvimento de software e disaster recovery. 
 </p> 
 <p> 
 💻Tech Stack</br>
