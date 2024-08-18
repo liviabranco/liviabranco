@@ -9,7 +9,7 @@ Aqui estão algumas coisas que venho aprendendo nessa jornada. </br>
  -  🗣 C++ 𒑰 C# 𒑰 Java 𒑰 Python 𒑰 .Net</br>
  -  📱 HTML 𒑰 Javascript 𒑰 Css</br>
  -  🎒 NodeJS 𒑰 Spring</br>
- -  ☁ AWS 𒑰 Azure  𒑰 GPC </br>
+ -  ☁ AWS 𒑰 Azure  𒑰 GCP </br>
  -  🚧 MySQL 𒑰 MSSQL</br>
  -  ♽ Jenkins</br>
 </p> 
